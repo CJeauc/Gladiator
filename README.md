@@ -1,5 +1,5 @@
 # Gladiator
-![alt text](https://github.com/CJeauc/Gladiator/tree/master/Screenshots/Arena.png)
+![alt text](https://github.com/CJeauc/Gladiator/blob/master/Screenshots/Arena.png)
 
 ## Description
 
